@@ -1,0 +1,10 @@
+{
+  "name": "@github-users/eslint-config",
+  "license": "ISC",
+  "private": true,
+  "main": "index.js",
+  "devDependencies": {
+    "@joel-luis/eslint-config": "^0.1.11",
+    "eslint": "^8"
+  }
+}

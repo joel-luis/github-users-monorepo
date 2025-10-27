@@ -1,0 +1,4 @@
+{
+  "extends": "@github-users/ts-config/next.json",
+  "include": ["src"]
+}
