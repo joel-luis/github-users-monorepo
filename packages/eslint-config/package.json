@@ -1,6 +1,7 @@
 {
   "name": "@github-users/eslint-config",
   "license": "ISC",
+  "version": "2.0.0",
   "private": true,
   "main": "index.js",
   "devDependencies": {
