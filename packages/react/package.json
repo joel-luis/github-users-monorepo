@@ -10,6 +10,9 @@
     "dev": "tsup src/index.ts --format esm,cjs --dts --external react --watch",
     "lint": "eslint src/**/*.ts* --fix"
   },
+  "files": [
+    "dist"
+  ],
   "keywords": [],
   "author": "",
   "license": "ISC",
@@ -17,7 +20,7 @@
     "@github-users/eslint-config": "*",
     "@github-users/tokens": "*",
     "@github-users/ts-config": "*",
-    "tsup": "^8.5.0",
+    "tsup": "^6.4.0",
     "typescript": "^5.9.3"
   },
   "dependencies": {
